@@ -14,11 +14,11 @@
     </properties>
 
     <dependencies>
-      <dependecy>
+      <dependency>
         <groupId>org.postgresql</groupId>
         <artifactId>postgresql</artifactId>
         <version>9.4-1200-jdbc41</version>
-      </dependecy>
+      </dependency>
     </dependencies>
 <build>
     <plugins>
